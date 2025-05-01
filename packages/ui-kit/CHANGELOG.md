@@ -1,5 +1,20 @@
 # @truststack/ui-kit
 
+## 0.5.1
+
+### Patch Changes
+
+- 72020fa: @truststack/object-ui package, tamagui version consolidation.
+- Updated dependencies [72020fa]
+  - @truststack/discovery-ui@0.4.1
+  - @truststack/object-ui@0.4.2
+  - @truststack/render-ui@0.4.1
+  - @truststack/icons-ui@0.5.1
+  - @truststack/theme-ui@0.4.1
+  - @truststack/form-ui@0.3.1
+  - @truststack/nav-ui@0.3.1
+  - @truststack/ui@0.5.1
+
 ## 0.5.0
 
 ### Minor Changes

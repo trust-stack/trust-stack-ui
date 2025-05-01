@@ -1,5 +1,13 @@
 # @truststack/ui
 
+## 0.5.1
+
+### Patch Changes
+
+- 72020fa: @truststack/object-ui package, tamagui version consolidation.
+- Updated dependencies [72020fa]
+  - @truststack/icons-ui@0.5.1
+
 ## 0.5.0
 
 ### Minor Changes
