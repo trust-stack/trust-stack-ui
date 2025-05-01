@@ -1,5 +1,13 @@
 # trust-stack-ui-storybook
 
+## 0.2.1
+
+### Patch Changes
+
+- 72020fa: @truststack/object-ui package, tamagui version consolidation.
+- Updated dependencies [72020fa]
+  - @truststack/ui@0.5.1
+
 ## 0.2.0
 
 ### Minor Changes

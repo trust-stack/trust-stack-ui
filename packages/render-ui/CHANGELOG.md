@@ -1,5 +1,15 @@
 # @truststack/render-ui
 
+## 0.4.1
+
+### Patch Changes
+
+- 72020fa: @truststack/object-ui package, tamagui version consolidation.
+- Updated dependencies [72020fa]
+  - @truststack/icons-ui@0.5.1
+  - @truststack/theme-ui@0.4.1
+  - @truststack/ui@0.5.1
+
 ## 0.4.0
 
 ### Minor Changes
